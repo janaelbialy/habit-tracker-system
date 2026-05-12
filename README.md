@@ -73,9 +73,3 @@ To help users transform small daily actions into long-term success through consi
 - Push notifications & reminders  
 - Gamification system (badges, rewards)  
 - Cloud deployment  
-
----
-
-## 📬 Contact
-
-For demo access or collaboration, feel free to contact the team.
